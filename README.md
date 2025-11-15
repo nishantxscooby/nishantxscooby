@@ -13,6 +13,5 @@ class Nishant:
 
 Profile views badge:
 
-```md
 ![Profile views](https://komarev.com/ghpvc/?username=nishantxscooby&color=red)
 
