@@ -10,5 +10,4 @@ class Nishant:
         self.contacts = 'https://www.linkedin.com/in/realnishant/'
         self.occupation = 'Learning to build cool stuff'
 ```
-![Profile Views](https://komarev.com/ghpvc/?username=nishantxscooby&label=Profile%20Views&color=238636&style=flat-square)
-
+![Profile Views](https://komarev.com/ghpvc/?username=nishantxscooby&label=Profile%20Views&color=cc4444&style=flat)
